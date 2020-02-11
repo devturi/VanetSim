@@ -167,7 +167,7 @@ public final class RSU {
 		int i, j, k, size, MapMinX, MapMinY, MapMaxX, MapMaxY, RegionMinX, RegionMinY, RegionMaxX, RegionMaxY;
 		Vehicle[] vehicles = null;
 		Vehicle vehicle = null;
-
+		JDialog createDialog(String "Hellooooo Worldddd");
 		// Minimum x coordinate to be considered for sending beacons
 		long tmp = x_ - wifiRadius_;
 		if (tmp < 0) MapMinX = 0;	// Map stores only positive coordinates
